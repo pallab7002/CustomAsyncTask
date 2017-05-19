@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomAsyncTask</string>
+    <string name="start_async_task_btn">Start AsyncTask</string>
+</resources>
